@@ -1,0 +1,31 @@
+SecId,Ticker,Name,Active-Passive,Category,Score,Expense Ratio,Low Cost Share Class,Assets ($M),Flows 1Y
+FOUSA00B49,AMCPX,American Funds AMCAP A,Active,Large Growth,21.43,0.69,No (0.34),"$68,903 ",-7%
+FOUSA00D02,AGTHX,American Funds Growth Fund of Amer A,Active,Large Growth,18.22,0.65,No (0.31),"$202,752 ",-7%
+FOUSA00CEO,FCNTX,Fidelity® Contrafund®,Active,Large Growth,35.84,0.85,No (0.77),"$117,856 ",-14%
+FOUSA00CH5,FDGRX,Fidelity® Growth Company,Active,Large Growth,34.46,0.83,No (0.75),"$46,959 ",-16%
+FEUSA00003,QQQ,Invesco QQQ Trust,Passive,Large Growth,27.83,0.2,ETF,"$109,884 ",20%
+FOUSA00EI7,TRBCX,T. Rowe Price Blue Chip Growth,Active,Large Growth,21.6,0.69,No (0.56),"$76,533 ",3%
+FOUSA00EJ5,PRGFX,T. Rowe Price Growth Stock,Active,Large Growth,31.32,0.65,No (0.00),"$37,498 ",-13%
+FEUSA04AC5,VUG,Vanguard Growth ETF,Passive,Large Growth,13.14,0.04,ETF,"$112,164 ",5%
+FOUSA02TYD,VPMAX,Vanguard PRIMECAP Adm,Active,Large Growth,20.47,0.31,Yes,"$59,565 ",-9%
+FEUSA0001B,IWF,iShares Russell 1000 Growth ETF,Passive,Large Growth,22.25,0.19,ETF,"$53,044 ",0%
+FOUSA009MW,AVFIX,American Beacon Small Cp Val R5,Active,Small Value,29.57,0.83,No (0.80),"$4,685 ",-11%
+FOUSA00G74,DTMVX,DFA Tax-Managed US Targeted Value,Active,Small Value,30.78,0.43,Yes,"$3,713 ",0%
+FOUSA00C2O,DFSVX,DFA US Small Cap Value I,Active,Small Value,32.73,0.51,Yes,"$10,876 ",-4%
+FOUSA02VMM,DFFVX,DFA US Targeted Value I,Active,Small Value,31.55,0.36,Yes,"$8,932 ",2%
+FOUSA00DUZ,DEVIX,Delaware Small Cap Value Instl,Active,Small Value,31.13,0.9,No (0.72),"$3,741 ",9%
+FOUSA00I4C,UBVLX,Undiscovered Managers Behavioral Val L,Active,Small Value,28.59,0.9,No (0.80),"$3,466 ",-15%
+FEUSA04ACH,VBR,Vanguard Small-Cap Value ETF,Passive,Small Value,7.34,0.07,ETF,"$12,726 ",10%
+FOUSA06J7M,VSOIX,Victory Sycamore Small Company Opp I,Active,Small Value,28.26,0.92,No (0.87),"$4,874 ",2%
+FEUSA00019,IWN,iShares Russell 2000 Value ETF,Passive,Small Value,21.39,0.24,ETF,"$7,545 ",6%
+FEUSA0000M,IJS,iShares S&P Small-Cap 600 Value ETF,Passive,Small Value,31.32,0.25,ETF,"$4,696 ",-4%
+FOUSA00F2R,SLMCX,Columbia Seligman Comms & Info A,Active,Technology,45.69,1.24,No (0.89),"$6,770 ",-7%
+FOUSA00CJC,FSCSX,Fidelity® Select Software & IT Svcs Port,Active,Technology,25.67,0.71,Yes,"$9,309 ",4%
+FOUSA00CJE,FSPTX,Fidelity® Select Technology,Active,Technology,33.36,0.71,Yes,"$7,461 ",2%
+FEUSA04AGY,FDN,First Trust Dow Jones Internet ETF,Passive,Technology,43.77,0.52,ETF,"$8,741 ",-13%
+FOUSA00H89,WSTAX,Ivy Science And Technology A,Active,Technology,45.14,1.19,No (0.82),"$7,373 ",-12%
+FOUSA00L6I,PRGTX,T. Rowe Price Global Technology,Active,Technology,38.62,0.88,No (0.75),"$5,400 ",-12%
+FOUSA00EKD,PRSCX,T. Rowe Price Science & Tech,Active,Technology,23.85,0.77,No (0.66),"$6,857 ",-5%
+FEUSA0000C,XLK,Technology Select Sector SPDR® ETF,Passive,Technology,7.43,0.13,ETF,"$30,105 ",8%
+FEUSA04ACD,VGT,Vanguard Information Technology ETF,Passive,Technology,9.14,0.1,ETF,"$33,648 ",17%
+FEUSA0000X,IYW,iShares US Technology ETF,Passive,Technology,25.58,0.42,ETF,"$5,305 ",0%
